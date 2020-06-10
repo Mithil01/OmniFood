@@ -1,6 +1,6 @@
 # Read Me Template
 
-![Project Image](omnifoodpage.png)
+
 
 > This is a ReadMe template to help save you time and effort.
 
