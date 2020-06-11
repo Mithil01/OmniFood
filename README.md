@@ -2,7 +2,7 @@
 
 
 
-> This is a ReadMe template to help save you time and effort.
+> This is a ReadMe to help save you time and effort.
 
 ---
 
